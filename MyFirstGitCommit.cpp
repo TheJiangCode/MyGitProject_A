@@ -8,4 +8,8 @@ int main()
     cout << "This gutter reflacted the chang of code" << endl;
 
     cout << "Blood bank";
+
+    cout << "I add a new Feature" << endl;
+
+    cout << "This is the third commit" << endl;
 }
